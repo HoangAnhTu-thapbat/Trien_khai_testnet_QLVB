@@ -14,7 +14,7 @@
 - Không cần cài đặt, chạy ngay trên trình duyệt
 
 ### Nhận ETH Test (Sepolia)
-- Vào faucet: [Sepolia Faucet](https://sepoliafaucet.com/) hoặc [Quicknode Faucet](https://faucet.quicknode.com/)
+- Vào faucet: [Sepolia Faucet](https://sepoliafaucet.com/) hoặc [Quicknode Faucet](https://faucet.quicknode.com/) hoặc [Quicknode Faucet](https://faucet.quicknode.com/) nếu bạn chưa có tiền thật trong ví.
 - Paste địa chỉ ví để nhận ETH test
 
 ## 2. Copy Mã Hợp Đồng
