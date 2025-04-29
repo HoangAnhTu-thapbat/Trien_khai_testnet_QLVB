@@ -30,7 +30,7 @@
 ## 4. Triển khai Hợp Đồng (Deploy)
 
 - Chuyển sang tab **Deploy & Run Transactions** (hình điện)
-- Ở mục **ENVIRONMENT** chọn **Sepolia  - MetaMask**
+- Ở mục **ENVIRONMENT** chọn **Sepolia  - MetaMask** (nếu bạn chưa có tiền sepolia thì không cần chọn và có thể dùng tiền mặc định của remix)
 - Chọn tài khoản MetaMask có ETH testnet
 - Chọn contract `DiplomaManager` trong danh sách contract
 - Bấm **Deploy**
